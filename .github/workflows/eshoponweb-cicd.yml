@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 08064def-0b0e-4dd5-8808-7997abbdc0d7
-  WEBAPP-NAME: az400-webapp-deksi
+  WEBAPP-NAME: az400-webapp-deksinet
 
 
 jobs:
